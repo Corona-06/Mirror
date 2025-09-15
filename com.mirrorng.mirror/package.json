@@ -1,0 +1,13 @@
+{
+  "name": "com.mirrorng.mirror",
+  "displayName": "Mirror Networking",
+  "version": "96.6.6",
+  "unity": "6000.0",
+  "unityRelease": "57f1",
+  "description": "High level Networking API for Unity, compatible with UNET.",
+  "author": {
+    "name": "Mirror Networking Community",
+    "url": "https://github.com/MirrorNetworking/Mirror"
+  },
+  "dependencies": {}
+}
